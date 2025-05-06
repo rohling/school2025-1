@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-   "start": "servor --reload"
+   "build": "servor --reload"
   },
   "author": "Rohling",
   "license": "ISC",
