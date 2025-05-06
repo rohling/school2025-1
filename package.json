@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-   "dev": "servor --reload",
-   "build": "servor"
+   "dev": "servor --reload"
 
   },
   "author": "Rohling",
