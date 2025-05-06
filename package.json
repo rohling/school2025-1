@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-   "build": "servor --reload"
+   "dev": "servor --reload",
+   "build": "servor"
+
   },
   "author": "Rohling",
   "license": "ISC",
